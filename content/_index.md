@@ -1,5 +1,5 @@
 ---
-title: "Arvindh Sundar - Welcome!"
+title: "Home"
 enableToc: false
 ---
 Heya!

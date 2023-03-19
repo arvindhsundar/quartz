@@ -1,6 +1,7 @@
 ---
 title: "Learning In Public"
-tags:
+tags: 
+- learning
 ---
 
 Learning in public is a parallel to building in public.
