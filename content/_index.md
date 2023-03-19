@@ -22,7 +22,8 @@ My current vectors are:
 - [Workshops](https://puttheplayerfirst.com/corporateworkshops/) that participants love
 - [Daily Email List](https://www.PutThePlayerFirst.com/sidequest) that gets fan mail
 - Tiny Labs - a small bets studio (Coming Soon.™)
-- ADHD Community (Coming Soon.™)
+- Marketing Coaching (Coming Soon.™)
+- Community for ADHD Founders (Coming Soon.™)
 
 My current experiments are:
 - Visual Thinking & Sketchnoting
