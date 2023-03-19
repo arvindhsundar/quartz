@@ -27,7 +27,7 @@ My current vectors are:
 
 My current experiments are:
 - Visual Thinking & Sketchnoting
-- Learning in public with this site
+- [[Learning in Public]] with this site
 - YouTubing with a face and voice meant for radio
 - Autofocus Productivity
 - Two week sprints in marketing
