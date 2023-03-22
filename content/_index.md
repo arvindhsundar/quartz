@@ -30,8 +30,10 @@ My current experiments are:
 - [[Learning In Public]] with this site
 - YouTubing with a face and voice meant for radio
 - Autofocus Productivity
-- Two week sprints in marketing
+- Two week sprints in [[Marketing]]
 - Separating my brand from [my philosophy](https://www.PutThePlayerFirst.com/philosophy)
 
 (҂◡̀_◡́)ᕤ 
 
+### To Do
+- [ ] Add personal notes from CMO time into this vault
