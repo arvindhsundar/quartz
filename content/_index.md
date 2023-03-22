@@ -6,7 +6,7 @@ Heya!
 
 I'm Arvindh Sundar.
 
-I make and teach things that help founders launch & grow their marketing engines.
+I make and teach things that help founders launch & grow their [[Marketing Engines]].
 
 Get in touch with me on [Twitter](https://twitter.com/arvindhsundar).
 
