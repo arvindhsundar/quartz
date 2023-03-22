@@ -6,13 +6,17 @@ Heya!
 
 I'm Arvindh Sundar.
 
-I make and teach things that help founders launch & grow their [[Marketing Engines]].
+I'm a former CMO & 3x founder helping founders build powerful [[Marketing Engines]].
+
+I do this using my insights from my past experience in startups, growth & consulting.
+
+I make videos, sketchnotes and send a daily email with a single tip.
 
 Get in touch with me on [Twitter](https://twitter.com/arvindhsundar).
 
 ---
 
-Prior to my current work, I was the CMO of an edtech startup. In the past, I've started 3 companies, including a content marketing agency, a training outfit and a personal development academy.
+Prior to my current work, I was the CMO of an edtech startup. In the past, I've started 3 companies, including a content marketing agency (Grok Communications), a training outfit (The Way Of The Octopus) and a personal development academy (Blue Lotus Training).
 
 ---
 
@@ -39,3 +43,4 @@ My current experiments are:
 ### To Do
 - [ ] Add personal notes from CMO time into this vault
 - [ ] Link to Hacking Attention & Tiny Labs
+- [ ] Link to landing pages & email
