@@ -17,3 +17,6 @@ I believe this can be one antidote to amplify humanness in the age of AI.
 Case in point, you'll often see my to-dos in public like the ones below.
 
 ---
+
+### To Do
+- [ ] Contrast Build In Public vs Learn In Public

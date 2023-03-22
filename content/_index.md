@@ -35,5 +35,7 @@ My current experiments are:
 
 (҂◡̀_◡́)ᕤ 
 
+---
 ### To Do
 - [ ] Add personal notes from CMO time into this vault
+- [ ] Link to Hacking Attention & Tiny Labs
