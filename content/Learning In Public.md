@@ -1,6 +1,6 @@
 ---
 title: "Learning In Public"
-tags: 
+tags:
 - learning
 ---
 
@@ -17,5 +17,6 @@ I believe this can be one antidote to amplify humanness in the age of AI.
 Case in point, you'll often see my to-dos in public like the ones below.
 
 ---
-Arvindh's To Do:
-- [ ] Add personal notes from hacking attention into this vault
+
+### To Do
+- [ ] Contrast Build In Public vs Learn In Public

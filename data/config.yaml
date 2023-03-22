@@ -1,6 +1,6 @@
 name: Arvindh Sundar
-enableToc: true
-openToc: true
+enableToc: false
+openToc: false
 enableLinkPreview: true
 enableLatex: true
 enableCodeBlockTitle: true
@@ -10,8 +10,8 @@ enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: true
-enableGitHubEdit: true
-enableMermaid: true
+enableGitHubEdit: false
+enableMermaid: false
 GitHubLink: https://github.com/arvindhsundar/quartz/tree/hugo/content
 search:
   enableSemanticSearch: false
