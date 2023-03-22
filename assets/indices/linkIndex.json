@@ -4,8 +4,25 @@
       "/": [
         {
           "source": "/",
+          "target": "/Marketing-Engines",
+          "text": "Marketing Engines"
+        },
+        {
+          "source": "/",
           "target": "/Learning-In-Public",
           "text": "Learning In Public"
+        },
+        {
+          "source": "/",
+          "target": "/Marketing",
+          "text": "Marketing"
+        }
+      ],
+      "/Marketing-Engines": [
+        {
+          "source": "/Marketing-Engines",
+          "target": "/Marketing",
+          "text": "Marketing"
         }
       ]
     },
@@ -16,14 +33,48 @@
           "target": "/Learning-In-Public",
           "text": "Learning In Public"
         }
+      ],
+      "/Marketing": [
+        {
+          "source": "/Marketing-Engines",
+          "target": "/Marketing",
+          "text": "Marketing"
+        },
+        {
+          "source": "/",
+          "target": "/Marketing",
+          "text": "Marketing"
+        }
+      ],
+      "/Marketing-Engines": [
+        {
+          "source": "/",
+          "target": "/Marketing-Engines",
+          "text": "Marketing Engines"
+        }
       ]
     }
   },
   "links": [
     {
+      "source": "/Marketing-Engines",
+      "target": "/Marketing",
+      "text": "Marketing"
+    },
+    {
+      "source": "/",
+      "target": "/Marketing-Engines",
+      "text": "Marketing Engines"
+    },
+    {
       "source": "/",
       "target": "/Learning-In-Public",
       "text": "Learning In Public"
+    },
+    {
+      "source": "/",
+      "target": "/Marketing",
+      "text": "Marketing"
     }
   ]
 }

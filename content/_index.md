@@ -3,7 +3,9 @@ title: "Home"
 enableToc: false
 ---
 
-![[img/arvindhsundar.png]]
+![[img/arvindhsundar.png|100%]]
+
+---
 Heya!
 
 I'm Arvindh Sundar.
