@@ -25,5 +25,7 @@ Different people have different definitions, but broadly speaking, Marketing has
 - Building In Public
 
 As you can see - there's a lot in marketing. But, you don't need to master it all. All you need to is pick a few that work for you - and use it well.
+
+---
 ### To Do
 - [ ] Expand each of these into notes

@@ -44,6 +44,6 @@ The 10 elements of The Game Plan, and their corresponding business elements are:
 To download The Game Plan, go [here](https://www.PutThePlayerFirst.com/gameplan).
 
 ---
-To Do
+### To Do
 - [ ] Notes for each element of The Game Plan
 - [ ] Flesh out content for the free video course

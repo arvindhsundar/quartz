@@ -25,6 +25,6 @@ At its core, a marketing plan needs:
 There are many ways to build your marketing plan, but I recommend using [[The Game Plan]] as the first step.
 
 ---
-Todo
+### To Do
 - [ ] Create notes on each step of the building a marketing plan process
 - [ ] Link to free video course

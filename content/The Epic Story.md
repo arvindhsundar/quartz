@@ -36,5 +36,5 @@ They solve their problems, gain experience and earn things they value. They acqu
 Once you have your epic story, you need to build out your Offer, identify your Key Messages and build your Funnels.
 
 ---
-Todo
+### To Do
 - [ ] Connect the different steps of the marketing plan to their notes.
