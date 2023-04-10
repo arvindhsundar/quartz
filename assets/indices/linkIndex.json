@@ -21,8 +21,74 @@
       "/Marketing-Engines": [
         {
           "source": "/Marketing-Engines",
+          "target": "/Marketing-Plan",
+          "text": "Marketing Plan"
+        }
+      ],
+      "/Marketing-Plan": [
+        {
+          "source": "/Marketing-Plan",
+          "target": "/Marketing-Engines",
+          "text": "Marketing Engines"
+        },
+        {
+          "source": "/Marketing-Plan",
           "target": "/Marketing",
           "text": "Marketing"
+        },
+        {
+          "source": "/Marketing-Plan",
+          "target": "/Marketing",
+          "text": "Marketing"
+        },
+        {
+          "source": "/Marketing-Plan",
+          "target": "/The-Game-Plan",
+          "text": "The Game Plan"
+        }
+      ],
+      "/The-Epic-Story": [
+        {
+          "source": "/The-Epic-Story",
+          "target": "/The-Game-Plan",
+          "text": "The Game Plan"
+        },
+        {
+          "source": "/The-Epic-Story",
+          "target": "/Marketing-Plan",
+          "text": "Marketing Plan"
+        },
+        {
+          "source": "/The-Epic-Story",
+          "target": "/Marketing",
+          "text": "Marketing"
+        }
+      ],
+      "/The-Game-Plan": [
+        {
+          "source": "/The-Game-Plan",
+          "target": "/Marketing",
+          "text": "Marketing"
+        },
+        {
+          "source": "/The-Game-Plan",
+          "target": "/Marketing-Plan",
+          "text": "Marketing Plan"
+        },
+        {
+          "source": "/The-Game-Plan",
+          "target": "/The-Game-Plan",
+          "text": "The Game Plan"
+        },
+        {
+          "source": "/The-Game-Plan",
+          "target": "/The-Epic-Story",
+          "text": "The Epic Story"
+        },
+        {
+          "source": "/The-Game-Plan",
+          "target": "/Marketing-Plan",
+          "text": "Marketing Plan"
         }
       ]
     },
@@ -36,7 +102,22 @@
       ],
       "/Marketing": [
         {
-          "source": "/Marketing-Engines",
+          "source": "/Marketing-Plan",
+          "target": "/Marketing",
+          "text": "Marketing"
+        },
+        {
+          "source": "/Marketing-Plan",
+          "target": "/Marketing",
+          "text": "Marketing"
+        },
+        {
+          "source": "/The-Epic-Story",
+          "target": "/Marketing",
+          "text": "Marketing"
+        },
+        {
+          "source": "/The-Game-Plan",
           "target": "/Marketing",
           "text": "Marketing"
         },
@@ -48,9 +129,60 @@
       ],
       "/Marketing-Engines": [
         {
+          "source": "/Marketing-Plan",
+          "target": "/Marketing-Engines",
+          "text": "Marketing Engines"
+        },
+        {
           "source": "/",
           "target": "/Marketing-Engines",
           "text": "Marketing Engines"
+        }
+      ],
+      "/Marketing-Plan": [
+        {
+          "source": "/Marketing-Engines",
+          "target": "/Marketing-Plan",
+          "text": "Marketing Plan"
+        },
+        {
+          "source": "/The-Epic-Story",
+          "target": "/Marketing-Plan",
+          "text": "Marketing Plan"
+        },
+        {
+          "source": "/The-Game-Plan",
+          "target": "/Marketing-Plan",
+          "text": "Marketing Plan"
+        },
+        {
+          "source": "/The-Game-Plan",
+          "target": "/Marketing-Plan",
+          "text": "Marketing Plan"
+        }
+      ],
+      "/The-Epic-Story": [
+        {
+          "source": "/The-Game-Plan",
+          "target": "/The-Epic-Story",
+          "text": "The Epic Story"
+        }
+      ],
+      "/The-Game-Plan": [
+        {
+          "source": "/Marketing-Plan",
+          "target": "/The-Game-Plan",
+          "text": "The Game Plan"
+        },
+        {
+          "source": "/The-Epic-Story",
+          "target": "/The-Game-Plan",
+          "text": "The Game Plan"
+        },
+        {
+          "source": "/The-Game-Plan",
+          "target": "/The-Game-Plan",
+          "text": "The Game Plan"
         }
       ]
     }
@@ -58,8 +190,68 @@
   "links": [
     {
       "source": "/Marketing-Engines",
+      "target": "/Marketing-Plan",
+      "text": "Marketing Plan"
+    },
+    {
+      "source": "/Marketing-Plan",
+      "target": "/Marketing-Engines",
+      "text": "Marketing Engines"
+    },
+    {
+      "source": "/Marketing-Plan",
       "target": "/Marketing",
       "text": "Marketing"
+    },
+    {
+      "source": "/Marketing-Plan",
+      "target": "/Marketing",
+      "text": "Marketing"
+    },
+    {
+      "source": "/Marketing-Plan",
+      "target": "/The-Game-Plan",
+      "text": "The Game Plan"
+    },
+    {
+      "source": "/The-Epic-Story",
+      "target": "/The-Game-Plan",
+      "text": "The Game Plan"
+    },
+    {
+      "source": "/The-Epic-Story",
+      "target": "/Marketing-Plan",
+      "text": "Marketing Plan"
+    },
+    {
+      "source": "/The-Epic-Story",
+      "target": "/Marketing",
+      "text": "Marketing"
+    },
+    {
+      "source": "/The-Game-Plan",
+      "target": "/Marketing",
+      "text": "Marketing"
+    },
+    {
+      "source": "/The-Game-Plan",
+      "target": "/Marketing-Plan",
+      "text": "Marketing Plan"
+    },
+    {
+      "source": "/The-Game-Plan",
+      "target": "/The-Game-Plan",
+      "text": "The Game Plan"
+    },
+    {
+      "source": "/The-Game-Plan",
+      "target": "/The-Epic-Story",
+      "text": "The Epic Story"
+    },
+    {
+      "source": "/The-Game-Plan",
+      "target": "/Marketing-Plan",
+      "text": "Marketing Plan"
     },
     {
       "source": "/",
